@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋 I'm Neeraj Kumar Tamta
 
-<!--
-**nktamta/nktamta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technical SEO & Digital Marketing Specialist
 
-Here are some ideas to get you started:
+I help businesses improve their online visibility through Technical SEO, On-Page SEO, AI Search Optimization, and Content Strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 🔍 Technical SEO Specialist
+- 📈 6+ Years of SEO Experience
+- 🤖 AI Search (GEO) Enthusiast
+- 🌐 WordPress SEO Expert
+- 📊 Google Analytics 4 & Search Console
+- 🚀 Passionate about solving SEO challenges
+
+---
+
+## 🛠 Skills
+
+- Technical SEO
+- On-Page SEO
+- Keyword Research
+- Content Strategy
+- SEO Audits
+- Core Web Vitals
+- Schema Markup
+- Internal Linking
+- AI Search (GEO)
+- Google Analytics 4
+- Google Search Console
+
+---
+
+## 📚 Currently Learning
+
+- Python for SEO
+- SEO Automation
+- AI Workflows
+- GitHub Portfolio Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/nktamta
