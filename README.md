@@ -10,6 +10,17 @@ I help businesses improve their online visibility through Technical SEO, On-Page
 ---
 
 ## 💼 About Me
+## 🛠 Tools & Technologies
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF8800?style=for-the-badge)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge)
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-8BC34A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 
 - 🔍 SEO Specialist
 - 📈 6+ Years of SEO Experience
