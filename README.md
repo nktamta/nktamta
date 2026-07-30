@@ -60,3 +60,17 @@ I help businesses improve their online visibility through Technical SEO, On-Page
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/nktamta
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nktamta&show_icons=true&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktamta&layout=compact&theme=tokyonight" />
+</p>
+## 🔥 Contribution Graph
+
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nktamta&theme=tokyo-night)](https://github.com/nktamta)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nktamta&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
