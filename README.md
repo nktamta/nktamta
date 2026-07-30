@@ -1,4 +1,7 @@
 # Hi there 👋 I'm Neeraj Kumar Tamta
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Technical+SEO+Specialist;Digital+Marketing+Professional;AI+Search+(GEO)+Enthusiast;WordPress+SEO+Expert;6%2B+Years+of+SEO+Experience" alt="Typing SVG" />
+</p>
 
 ## 🚀 Technical SEO & Digital Marketing Specialist
 
