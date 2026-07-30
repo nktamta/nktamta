@@ -3,15 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Technical+SEO+Specialist;Digital+Marketing+Professional;AI+Search+(GEO)+Enthusiast;WordPress+SEO+Expert;6%2B+Years+of+SEO+Experience" alt="Typing SVG" />
 </p>
 
-## 🚀 Technical SEO & Digital Marketing Specialist
+## 🚀  SEO & Digital Marketing Specialist
 
-I help businesses improve their online visibility through Technical SEO, On-Page SEO, AI Search Optimization, and Content Strategy.
+I help businesses improve their online visibility through Technical SEO, On-Page SEO, AI Search Optimization, Off-Page,and Content Strategy.
 
 ---
 
 ## 💼 About Me
 
-- 🔍 Technical SEO Specialist
+- 🔍 SEO Specialist
 - 📈 6+ Years of SEO Experience
 - 🤖 AI Search (GEO) Enthusiast
 - 🌐 WordPress SEO Expert
@@ -26,6 +26,7 @@ I help businesses improve their online visibility through Technical SEO, On-Page
 - On-Page SEO
 - Keyword Research
 - Content Strategy
+- Link Building
 - SEO Audits
 - Core Web Vitals
 - Schema Markup
